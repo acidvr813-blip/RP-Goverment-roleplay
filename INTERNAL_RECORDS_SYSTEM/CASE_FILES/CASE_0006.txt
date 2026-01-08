@@ -1,0 +1,7 @@
+CASE 0006
+REF: 5495-9807
+STATUS: CLOSED
+CREATED: 2026-01-07 19:10:58
+
+NOTES:
+- Auto-generated local test case.
