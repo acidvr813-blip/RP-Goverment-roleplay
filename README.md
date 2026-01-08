@@ -1,5 +1,4 @@
-##YOU NEED WINDOWS OR PYTHON I RECOMMEND PYTHON
-# RP-Government-roleplay
+**YOU NEED WINDOWS OR PYTHON FOR THIS ROLEPLAY I RECOMMEND PYTHON**
 
 A roleplay government records system project.
 
